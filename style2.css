@@ -1,0 +1,33 @@
+p{
+    color: rgb(14, 13, 13);
+    text-indent: 30px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14pt;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: goldenrod;
+    text-shadow: 2px 2px 5px gold;
+}
+
+hr{
+    border: 2px outset gold;
+}
+
+fieldset, legend{
+    border: 5px outset gold;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+legend{
+    background: greenyellow;
+}
+
+fieldset{
+    background-image: linear-gradient(greenyellow, yellowgreen, orange);
+}

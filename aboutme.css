@@ -1,0 +1,13 @@
+fieldset, legend{
+    border: 5px outset maroon;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+legend{
+    background: greenyellow;
+}
+
+fieldset{
+    background-image: linear-gradient(greenyellow, yellowgreen, orange);
+}
